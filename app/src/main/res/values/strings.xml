@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HttpTest</string>
+    <string name="test_connection">http://www.google.com</string>
+    <string name="asyn">Asyn</string>
+    <string name="request">Request</string>
+</resources>
